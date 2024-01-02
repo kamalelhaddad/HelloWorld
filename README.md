@@ -1,2 +1,2 @@
 # HelloWorld!
-Application coming directly from Rider integration woth Github
+Application coming directly from Rider integration with Github
